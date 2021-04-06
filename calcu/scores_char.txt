@@ -1,0 +1,15 @@
+..\result\output.txt :                          acc:82.62879788639366%
+..\result\sina_0.99999.txt :                    acc:81.80317040951122%
+..\result\sina_jieba_0.99999.txt :              acc:77.88969616908851%
+..\result\sina_nbest_0.999992.txt :             acc:81.67107001321003%
+..\result\sina_seg_0.99999.txt :                acc:58.60303830911493%
+..\result\zhihu_0.99992.txt :                    acc:81.5554821664465%
+..\result\zhihu_0.99995.txt :                   acc:82.56274768824306%
+..\result\zhihu_0.99998.txt :                   acc:82.67833553500661%
+..\result\zhihu_0.999985.txt :                  acc:82.76089828269485%
+..\result\zhihu_0.999988.txt :                  acc:82.76089828269485%
+..\result\zhihu_0.99999.txt :                   acc:82.62879788639366%
+..\result\zhihu_0.999992.txt :                    acc:82.612285336856%
+..\result\zhihu_0.999995.txt :                  acc:82.21598414795245%
+..\result\zhihu_jieba_0.999999.txt :            acc:75.69352708058125%
+..\result\zhihu_nbest_0.999992.txt :            acc:82.21598414795245%
